@@ -15,4 +15,4 @@
   <hr>
   
   <h3> Comment installer la base de site </h3>
-  <p align="center">  faites `npm install` une fois tous les modules installé faites`npm start` pour lançer le site. Pour voir votre site sur le web c'est a l'adresse suivante `localhost:1234` pour tous problème venez me contacter par discord : 𝒮𝒽𝑜𝑔𝓊𝓃𝓉𝑜𝓉𝑜#1376 </p>
+  <p align="center">  faites npm install une fois tous les modules installé faites npm start pour lançer le site. Pour voir votre site sur le web c'est a l'adresse suivante `localhost:1234` pour tous problème venez me contacter par discord : 𝒮𝒽𝑜𝑔𝓊𝓃𝓉𝑜𝓉𝑜#1376 </p>
